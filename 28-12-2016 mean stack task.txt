@@ -1,0 +1,161 @@
+          
+
+
+(1)var a=52;
+undefined
+typeof
+ a
+"number"
+var b=23;
+undefined
+typeof
+ b
+"number"
+var b=23+a;
+undefined
+b
+75
+
+
+ _______________________________________________
+             Multiplying
+
+
+
+(2)var a=45;
+undefined
+typeof a
+"number"
+var b=12;
+undefined
+typeof b
+"number"
+var b=(12+a)*a
+undefined
+undefined
+var b=(12+45)*45
+undefined
+b
+2565
+  
+_____________________________________________
+
+       Dividing
+
+(3) 
+
+ 
+var a=40;
+undefined
+typeof a
+"number"
+var b=15
+undefined
+typeof b
+"number"
+var c=a/b
+undefined
+var c=40/15
+undefined
+c
+2.6666666666666665
+____________________________________________
+
+ 
+                     Modulus
+(5)
+
+var a=10;
+undefined
+typeof a
+"number"
+var b=01;
+undefined
+typeof b
+"number"
+var c=a%b
+undefined
+var c=10%01
+undefined
+c
+0
+ ____________________________________________
+
+
+               Incrementing
+
+(6)  
+
+var a=50;
+undefined
+var a=++
+    a
+undefined
+a
+51
+
+
+
+____________________________________
+
+
+                      Decrementing
+
+
+(7)
+
+var a=10;
+undefined
+var a=--
+    a
+undefined
+a
+9
+
+
+
+____________________________________________
+
+
+string
+
+
+(8)
+
+
+
+var str1="paramjeet"
+undefined
+str1
+"paramjeet"
+var str2="sunny"
+undefined
+var str2=str1
+undefined
+str2
+"paramjeet"
+str1
+"paramjeet"
+str2="sunny"
+"sunny"
+
+________________________________________________
+
+ bool
+
+
+(9)
+
+
+bool1=true
+true
+bool2=false
+false
+bool2
+false
+bool2=bool1
+true
+
+
+
+
